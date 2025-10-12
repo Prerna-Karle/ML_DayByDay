@@ -1,2 +1,2 @@
-# basic_machine_learning_projects
-A collection of beginner-friendly machine learning projects covering core algorithms and concepts. 
+# ML_DayByDay
+My day-by-day learning log and code implementations while mastering machine learning concepts.
